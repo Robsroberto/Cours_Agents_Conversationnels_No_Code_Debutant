@@ -1,0 +1,59 @@
+{
+  "slug": "agents-conversationnels-no-code-debutant",
+  "title": "Créez votre premier chatbot IA génératif sans code pour booster votre business",
+  "description": "Apprenez à concevoir, entraîner et déployer un chatbot IA génératif à l'aide d'outils no‑code, adapté aux besoins des PME africaines. Vous partirez de zéro et publierez votre assistant en moins d'une journée.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "IA",
+    "no-code",
+    "chatbot",
+    "entrepreneuriat",
+    "Afrique"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction : pourquoi un chatbot IA pour votre business"
+    },
+    {
+      "file": "02-concepts-de-base.md",
+      "title": "Concepts de base de l'IA conversationnelle"
+    },
+    {
+      "file": "03-choix-plateforme.md",
+      "title": "Choisir la plateforme no‑code adaptée"
+    },
+    {
+      "file": "04-configuration-api.md",
+      "title": "Créer un compte et configurer l'API OpenAI"
+    },
+    {
+      "file": "05-conception-flux.md",
+      "title": "Concevoir le flux de conversation"
+    },
+    {
+      "file": "06-entrainement-donnees.md",
+      "title": "Entraîner le modèle avec vos données métier"
+    },
+    {
+      "file": "07-integration-site.md",
+      "title": "Intégrer le chatbot à votre site web ou page Facebook"
+    },
+    {
+      "file": "08-automatisation-service-client.md",
+      "title": "Automatiser le service client : tickets, escalade et CRM"
+    },
+    {
+      "file": "09-analyse-optimisation.md",
+      "title": "Analyser les performances et optimiser le chatbot"
+    },
+    {
+      "file": "10-projet-final.md",
+      "title": "Projet final : déployer un chatbot complet pour votre activité"
+    }
+  ]
+}
